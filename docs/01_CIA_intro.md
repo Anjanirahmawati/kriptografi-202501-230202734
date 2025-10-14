@@ -69,9 +69,15 @@ Tambahkan contoh nyata minimal 1 untuk tiap aspek.
 ### Langkah 4 — Quiz Singkat
 Jawab pertanyaan berikut di laporan:  
 1. Siapa tokoh yang dianggap sebagai bapak kriptografi modern?  
-2. Sebutkan algoritma kunci publik yang populer digunakan saat ini.  
+Tokoh yang dianggap sebagai bapak kriptografi modern adalah Claude E. Shannon.  
+   Ia memperkenalkan dasar teori kriptografi modern melalui publikasinya berjudul *“Communication Theory of Secrecy Systems”* pada tahun 1949, yang menjelaskan konsep keamanan informasi secara matematis.
+2. Sebutkan algoritma kunci publik yang populer digunakan saat ini.
+Algoritma kunci publik yang paling populer digunakan adalah RSA (Rivest–Shamir–Adleman) dan Elliptic Curve Cryptography (ECC).  
+   RSA banyak digunakan untuk enkripsi dan tanda tangan digital, sedangkan ECC digunakan karena tingkat keamanan tinggi dengan panjang kunci yang lebih pendek.  
 3. Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?  
-
+Perbedaan utamanya terletak pada metode dan kompleksitas algoritma:
+   - Kriptografi klasik menggunakan teknik sederhana seperti substitusi dan transposisi huruf (contoh: Caesar Cipher, Vigenère Cipher).  
+   - Kriptografi modern menggunakan prinsip matematika dan komputasi kompleks, serta mendukung penggunaan kunci publik dan privat (contoh: AES, RSA, ECC).
 ---
 
 ## Tugas yang Dikumpulkan
