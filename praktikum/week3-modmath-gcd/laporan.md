@@ -101,7 +101,7 @@ Secara keseluruhan, praktikum ini memberikan pemahaman mendalam tentang bagaiman
 Contoh:
 ```
 commit abc12345
-Author: anjani rahmawati <anjanirahmawati@gmail.com>
+Author: anjani rahmawati <anjanirahmawati1204@gmail.com>
 Date:   2025-09-21
 
     week2-cryptosystem: implementasi Caesar Cipher dan laporan )
