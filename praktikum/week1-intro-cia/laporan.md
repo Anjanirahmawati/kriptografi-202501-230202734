@@ -59,24 +59,30 @@ def encrypt(text, key):
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+![Hasil Eksekusi](screenshots/commit.png)
+![Hasil Input](screenshots/repo_setup.png)
+![Hasil Output](screenshots/quiz.png)
 )
 
 ---
 
 ## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
-- Pertanyaan 2: …  
-)
+1. Siapa tokoh yang dianggap sebagai bapak kriptografi modern?  
+Tokoh yang dianggap sebagai bapak kriptografi modern adalah Claude E. Shannon.  
+   Ia memperkenalkan dasar teori kriptografi modern melalui publikasinya berjudul *“Communication Theory of Secrecy Systems”* pada tahun 1949, yang menjelaskan konsep keamanan informasi secara matematis.
+2. Sebutkan algoritma kunci publik yang populer digunakan saat ini.
+Algoritma kunci publik yang paling populer digunakan adalah RSA (Rivest–Shamir–Adleman) dan Elliptic Curve Cryptography (ECC).  
+   RSA banyak digunakan untuk enkripsi dan tanda tangan digital, sedangkan ECC digunakan karena tingkat keamanan tinggi dengan panjang kunci yang lebih pendek.  
+3. Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?  
+Perbedaan utamanya terletak pada metode dan kompleksitas algoritma:
+   - Kriptografi klasik menggunakan teknik sederhana seperti substitusi dan transposisi huruf (contoh: Caesar Cipher, Vigenère Cipher).  
+   - Kriptografi modern menggunakan prinsip matematika dan komputasi kompleks, serta mendukung penggunaan kunci publik dan privat (contoh: AES, RSA, ECC).
 ---
 
 ## 8. Kesimpulan
-(Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan.  )
+Berdasarkan percobaan yang telah dilakukan, dapat disimpulkan bahwa konsep CIA Triad (Confidentiality, Integrity, Availability) merupakan dasar penting dalam menjaga keamanan informasi di sistem digital. Melalui penerapan prinsip-prinsip tersebut, data dapat terlindungi dari akses tidak sah, perubahan tanpa izin, serta tetap tersedia bagi pengguna yang berhak. Praktikum ini membantu memahami bagaimana konsep keamanan informasi diterapkan dalam kriptografi secara praktis.
 
----
+---.
 
 ## 9. Daftar Pustaka
 (Cantumkan referensi yang digunakan.  
@@ -91,20 +97,8 @@ Contoh:
 Contoh:
 ```
 commit abc12345
-Author: Nama Mahasiswa <email>
+Author: Anjani Rahmawati <anjanirahmawati@gmail.com>
 Date:   2025-09-20
 
     week2-cryptosystem: implementasi Caesar Cipher dan laporan )
 ```
-### Langkah 4 — Quiz Singkat
-Jawab pertanyaan berikut di laporan:  
-1. Siapa tokoh yang dianggap sebagai bapak kriptografi modern?  
-Tokoh yang dianggap sebagai bapak kriptografi modern adalah Claude E. Shannon.  
-   Ia memperkenalkan dasar teori kriptografi modern melalui publikasinya berjudul *“Communication Theory of Secrecy Systems”* pada tahun 1949, yang menjelaskan konsep keamanan informasi secara matematis.
-2. Sebutkan algoritma kunci publik yang populer digunakan saat ini.
-Algoritma kunci publik yang paling populer digunakan adalah RSA (Rivest–Shamir–Adleman) dan Elliptic Curve Cryptography (ECC).  
-   RSA banyak digunakan untuk enkripsi dan tanda tangan digital, sedangkan ECC digunakan karena tingkat keamanan tinggi dengan panjang kunci yang lebih pendek.  
-3. Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?  
-Perbedaan utamanya terletak pada metode dan kompleksitas algoritma:
-   - Kriptografi klasik menggunakan teknik sederhana seperti substitusi dan transposisi huruf (contoh: Caesar Cipher, Vigenère Cipher).  
-   - Kriptografi modern menggunakan prinsip matematika dan komputasi kompleks, serta mendukung penggunaan kunci publik dan privat (contoh: AES, RSA, ECC).
