@@ -1,12 +1,19 @@
 # 05 Cipher Klasik (Caesar, Vigenère, Transposisi)
 
 ## Tujuan Pembelajaran
-Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:  
-1. Menerapkan algoritma **Caesar Cipher** untuk enkripsi dan dekripsi teks.  
-2. Menerapkan algoritma **Vigenère Cipher** dengan variasi kunci.  
-3. Mengimplementasikan algoritma transposisi sederhana.  
-4. Menjelaskan kelemahan algoritma kriptografi klasik.  
-
+1.Menerapkan algoritma Caesar Cipher untuk enkripsi dan dekripsi teks
+Mahasiswa mampu memahami prinsip kerja Caesar Cipher yang menggunakan pergeseran huruf dalam alfabet dengan kunci tertentu.
+Tujuannya adalah agar mahasiswa dapat membuat program sederhana yang mengubah pesan teks menjadi bentuk terenkripsi (ciphertext) dan mengembalikannya lagi ke bentuk asli (plaintext) menggunakan logika pergeseran huruf.
+2.Menerapkan algoritma Vigenère Cipher dengan variasi kunci
+Mahasiswa diharapkan memahami cara kerja Vigenère Cipher yang menggunakan kata kunci untuk menentukan besar pergeseran setiap huruf.
+Dengan demikian, mahasiswa dapat membandingkan kompleksitas dan keamanan Vigenère terhadap Caesar Cipher, serta memahami konsep penggunaan key stream dalam kriptografi.
+3.Mengimplementasikan algoritma transposisi sederhana
+Mahasiswa mampu memahami perbedaan cipher substitusi dan transposisi.
+Pada cipher transposisi, posisi huruf pada plaintext ditukar mengikuti pola tertentu tanpa mengubah hurufnya.
+Melalui implementasi ini, mahasiswa dapat mempelajari bagaimana pola penataan karakter dapat digunakan sebagai dasar sistem penyandian.
+4.Menjelaskan kelemahan algoritma kriptografi klasik
+Mahasiswa dapat mengidentifikasi keterbatasan cipher klasik seperti ruang kunci yang kecil, kemudahan diserang menggunakan analisis frekuensi, serta ketidakmampuan melindungi pesan dari serangan modern.
+Dengan pemahaman ini, mahasiswa diharapkan mampu menjelaskan mengapa kriptografi klasik hanya digunakan sebagai dasar pembelajaran dan bukan untuk keamanan data masa kini.
 ---
 
 ## Capaian Kegiatan
