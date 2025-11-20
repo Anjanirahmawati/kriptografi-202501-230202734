@@ -73,7 +73,7 @@ print("Kunci bersama Bob   :", shared_secret_B)
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](/praktikum/week7-diffie-hellman/screenshots.py/Hasil%20Eksekusi.png)
+![Hasil Eksekusi](/praktikum/week7-diffie-hellman/screenshots.py/Hasil_Eksekusi.png)
 
 
 ---
