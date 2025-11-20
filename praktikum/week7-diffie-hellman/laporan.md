@@ -62,7 +62,7 @@ shared_secret_B = pow(A, b, p)
 print("Kunci bersama Alice :", shared_secret_A)
 print("Kunci bersama Bob   :", shared_secret_B)
 
-
+```
 ---
 
 ## 6. Hasil dan Pembahasan
